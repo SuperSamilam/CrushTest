@@ -1,0 +1,14 @@
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\bin\Debug\net7.0\CrushTest.exe
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\bin\Debug\net7.0\CrushTest.deps.json
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\bin\Debug\net7.0\CrushTest.runtimeconfig.json
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\bin\Debug\net7.0\CrushTest.dll
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\bin\Debug\net7.0\CrushTest.pdb
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\obj\Debug\net7.0\CrushTest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\obj\Debug\net7.0\CrushTest.AssemblyInfoInputs.cache
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\obj\Debug\net7.0\CrushTest.AssemblyInfo.cs
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\obj\Debug\net7.0\CrushTest.csproj.CoreCompileInputs.cache
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\obj\Debug\net7.0\CrushTest.dll
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\obj\Debug\net7.0\refint\CrushTest.dll
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\obj\Debug\net7.0\CrushTest.pdb
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\obj\Debug\net7.0\CrushTest.genruntimeconfig.cache
+c:\Users\sam.lindfors\Desktop\Programering\CrushTest\CrushTest\obj\Debug\net7.0\ref\CrushTest.dll
