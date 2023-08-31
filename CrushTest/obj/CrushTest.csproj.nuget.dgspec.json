@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sam.lindfors\\Desktop\\Programering\\CrushTest\\CrushTest\\CrushTest.csproj": {}
+    "c:\\Users\\sam.lindfors\\Desktop\\Programering\\CrushTest\\CrushTest\\CrushTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sam.lindfors\\Desktop\\Programering\\CrushTest\\CrushTest\\CrushTest.csproj": {
+    "c:\\Users\\sam.lindfors\\Desktop\\Programering\\CrushTest\\CrushTest\\CrushTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sam.lindfors\\Desktop\\Programering\\CrushTest\\CrushTest\\CrushTest.csproj",
+        "projectUniqueName": "c:\\Users\\sam.lindfors\\Desktop\\Programering\\CrushTest\\CrushTest\\CrushTest.csproj",
         "projectName": "CrushTest",
-        "projectPath": "C:\\Users\\sam.lindfors\\Desktop\\Programering\\CrushTest\\CrushTest\\CrushTest.csproj",
+        "projectPath": "c:\\Users\\sam.lindfors\\Desktop\\Programering\\CrushTest\\CrushTest\\CrushTest.csproj",
         "packagesPath": "C:\\Users\\sam.lindfors\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sam.lindfors\\Desktop\\Programering\\CrushTest\\CrushTest\\obj\\",
+        "outputPath": "c:\\Users\\sam.lindfors\\Desktop\\Programering\\CrushTest\\CrushTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sam.lindfors\\AppData\\Roaming\\NuGet\\NuGet.Config"
