@@ -4,6 +4,7 @@
 Console.WriteLine("Vad Heter Du?");
 string name = Console.ReadLine();
 
+
 Console.WriteLine("Hur Gammal är Du?");
 int your_age = Convert.ToInt32(Console.ReadLine());
 
